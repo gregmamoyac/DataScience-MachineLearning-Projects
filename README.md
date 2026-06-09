@@ -103,5 +103,3 @@ These projects were completed to develop practical experience in:
 **Greg Mamoyac**
 
 Graduate Studies in Computer Information Systems and Data Analytics
-
-California State University, Los Angeles (CSULA)
